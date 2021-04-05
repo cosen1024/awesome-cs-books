@@ -70,7 +70,7 @@
 
 ## C++
 
-[百度云盘链接](https://pan.baidu.com/s/16T4AfB4jEj9EMCCkBRt7Uw) 密码：maj0
+[百度云盘链接](https://pan.baidu.com/s/1TjqaSJu3kFNnSJynEdTirw) 密码：vkpa
 
 - C++ Primer
 - C++大学教程 
@@ -93,7 +93,7 @@
 
 ### 1. Java 基础
 
-[百度云盘链接](https://pan.baidu.com/s/1Wi6fYomhfU0U3HDjyhhqjg) 密码：xpla
+[百度云盘链接](https://pan.baidu.com/s/1eYiscAJp0n357Eu0GCTMmg) 密码：49sq 
 
 * Head First Java
 * Java8实战
@@ -110,7 +110,7 @@
 
 ### 2. Java 虚拟机
 
-[百度云盘链接](https://pan.baidu.com/s/1wPKyp5C3mEbX1hOCn_zY4w) 密码：xn2h
+[百度云盘链接](https://pan.baidu.com/s/1eYiscAJp0n357Eu0GCTMmg) 密码：49sq
 
 * 深入理解Java虚拟机
 * 深入理解JVM＆G1GC
@@ -120,7 +120,7 @@
 
 ### 3. Java 并发
 
-[百度云盘链接](https://pan.baidu.com/s/1SSO2RBOSqCe68iDzNxEFLg) 密码：bkjf
+[百度云盘链接](https://pan.baidu.com/s/1eYiscAJp0n357Eu0GCTMmg) 密码：49sq
 
 * JAVA并发编程实战
 * Java多线程编程核心技术
@@ -130,7 +130,7 @@
 
 ### 4. Java Web
 
-[百度云盘链接](https://pan.baidu.com/s/1j8cyrxXZwaj1RTHAmEU8Rg) 密码：rvjz
+[百度云盘链接](https://pan.baidu.com/s/1eYiscAJp0n357Eu0GCTMmg) 密码：49sq
 
 * Head First Servlets and JSP 
 * Spring 入门指南
@@ -168,7 +168,7 @@
 
 ### 1.Python 基础
 
-[百度云盘链接](https://pan.baidu.com/s/1GCOQ_Q3b80pw41bePSqEiA) 密码：lvrf
+[百度云盘链接](https://pan.baidu.com/s/1oTpoNMe0-aY7w0cx8rWUdQ) 密码：xvkr
 
 - 编程小白的第一本Python入门书 
 - Python编程初学者指南 
@@ -184,7 +184,7 @@
 
 ### 2. Python 爬虫
 
-[百度云盘链接](https://pan.baidu.com/s/1K7YPkf284iNf2iTo4RwGug) 密码：4pfw
+[百度云盘链接](https://pan.baidu.com/s/1oTpoNMe0-aY7w0cx8rWUdQ) 密码：xvkr
 
 * Python3网络爬虫数据采集
 * 用Python写网络爬虫
@@ -192,7 +192,7 @@
 
 ### 3. Python 数据分析与数据挖掘
 
-[百度云盘链接](https://pan.baidu.com/s/12WSVhm0kBLYRC0ye2Hg4sw) 密码：jl9h
+[百度云盘链接](https://pan.baidu.com/s/1oTpoNMe0-aY7w0cx8rWUdQ) 密码：xvkr
 
 * Python数据分析基础
 * Python数据分析与挖掘实战
