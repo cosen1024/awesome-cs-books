@@ -1,5 +1,5 @@
 # awesome-cs-books
-计算机类常用电子书，并且附带下载链接，包括C，C++，Java，Python，Java，Linux，Go，数据结构与算法，操作系统，计算机网络，计算机组成原理，设计模式，数据库，前端，人工智能等。
+计算机类常用电子书，并且附带下载链接，包括C，C++，Java，Python，C++，Linux，Go，数据结构与算法，操作系统，计算机网络，计算机组成原理，设计模式，数据库，前端，人工智能等。
 ## 联系我
 
 ![公众号](http://blog-img.coolsen.cn/img/e4f5e1af1fe97736a54b91bb3b95715.png)
