@@ -213,7 +213,7 @@
 
 ## Linux
 
-[百度云盘链接](https://pan.baidu.com/s/1pQ7PntC8u0hv9xgpxsKPHA) 密码：slqj
+[百度云盘链接](https://pan.baidu.com/s/1jzErea4afaOwP7C_jbFUlg) 密码：l5v2
 
 * 鸟哥的Linux私房菜
 
@@ -372,7 +372,7 @@
 
 ### 1. 机器学习
 
-[百度云盘链接](https://pan.baidu.com/s/10Dz8kYaWzTbgIaGUiLPnnw) 密码：gesh
+[百度云盘链接](https://pan.baidu.com/s/19C7M-_muOoBw4y0vxy9CQQ) 密码：hjc4 
 
 * 机器学习_周志华
 
@@ -382,7 +382,7 @@
 
 ### 2. 深度学习
 
-[百度云盘链接](https://pan.baidu.com/s/1KIU960fMCncRKw47CTLf5w) 密码：tjdw
+[百度云盘链接](https://pan.baidu.com/s/19C7M-_muOoBw4y0vxy9CQQ) 密码：hjc4 
 
 * 深度学习_中文版
 * 深度学习框架
@@ -390,7 +390,7 @@
 
 ### 3. 计算机视觉
 
-[百度云盘链接](https://pan.baidu.com/s/1fbBiJnfgfzR-WDV23qPZBg) 密码：nqq1
+[百度云盘链接](https://pan.baidu.com/s/19C7M-_muOoBw4y0vxy9CQQ) 密码：hjc4 
 
 * Computer vision
 * 图像处理分析与机器视觉
@@ -398,7 +398,7 @@
 
 ### 4.  自然语言处理
 
-[百度云盘链接](https://pan.baidu.com/s/1tMDuJAad9W7qN9uEtyeXoA) 密码：n8pr
+[百度云盘链接](https://pan.baidu.com/s/19C7M-_muOoBw4y0vxy9CQQ) 密码：hjc4 
 
 * deep_learning_for_nlp
 * Python自然语言处理中文翻译 NLTK 中文版
