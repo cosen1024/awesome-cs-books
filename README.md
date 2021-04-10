@@ -259,7 +259,7 @@
 
 ## 计算机网络
 
-[百度云盘链接](https://pan.baidu.com/s/1fIr8KEIY7D4s3BK3pzvgNQ) 密码：3l2w
+[百度云盘链接](https://pan.baidu.com/s/1X_olyUf9BsSOzeaOlsOAPw) 密码：6666 
 
 - 计算机网络：自顶向下 
 - 计算机网络：自顶向下方法课后习题参考答案
@@ -279,7 +279,7 @@
 
 ## 操作系统
 
-[百度云盘链接](https://pan.baidu.com/s/1dwXSzsTyKx3nEYxVAx6Rhw) 密码：lg0w
+[百度云盘链接](https://pan.baidu.com/s/1tfEDNAidjGN8020VevLT3A) 密码：6666 
 
 * 深入理解计算机系统 第3版
 * 现代操作系统
@@ -352,7 +352,7 @@
 
 ## 前端
 
-[百度云盘链接](https://pan.baidu.com/s/1UG6CRMQ1Iqm_4Do1rj_7lg) 密码：z6ib
+[百度云盘链接](https://pan.baidu.com/s/1-oJauCw1lN_7G7w-JfxgsA) 密码：6666 
 
 - HTML5与CSS3基础教程
 - HTML与CSS入门经典
