@@ -52,7 +52,7 @@
 
 ## C语言
 
-[百度云盘链接](https://pan.baidu.com/s/1EGWsbCarO2t34koiTThrVw ) 密码：rar0 
+[百度云盘链接](https://pan.baidu.com/s/1s2jcGN0OXV4UEcKgs7hAMA) 密码：zoqf 
 
 - C Primer Plus 
 - 经典C程序100例 
@@ -295,7 +295,7 @@
 
 ### SQL
 
-[百度云盘链接](https://pan.baidu.com/s/13QldLFDDQYih8tyTkHRSLQ) 密码：4grw
+[百度云盘链接](https://pan.baidu.com/s/1YAKORaFm0sDZWj-ZWZ_54A) 密码：r54o
 
 - Head First SQL 
 - SQL 学习指南 
@@ -304,7 +304,7 @@
 
 ### MySQL
 
-[百度云盘链接](https://pan.baidu.com/s/1wbi6VaeWvusSDKr0MsOejg) 密码：ibsi
+[百度云盘链接](https://pan.baidu.com/s/1YAKORaFm0sDZWj-ZWZ_54A) 密码：r54o
 
 - MySQL 必知必会 
 - 高性能 MySQL 
