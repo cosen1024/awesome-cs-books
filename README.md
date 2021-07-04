@@ -52,7 +52,7 @@
 
 ## C语言
 
-[百度云盘链接](https://pan.baidu.com/s/1s2jcGN0OXV4UEcKgs7hAMA) 密码：zoqf 
+[百度云盘链接](https://pan.baidu.com/s/1G29yptn22a9yCAsv7uQgbg) 密码：6688 
 
 - C Primer Plus 
 - 经典C程序100例 
