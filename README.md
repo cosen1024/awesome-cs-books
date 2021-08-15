@@ -52,8 +52,7 @@
 
 ## C语言
 
-[百度云盘链接](https://pan.baidu.com/s/1G29yptn22a9yCAsv7uQgbg) 密码：6688 
-
+[百度云盘链接](https://pan.baidu.com/s/1cyiffm841PSWgLL9N7I70g) 密码：6666 
 - C Primer Plus 
 - 经典C程序100例 
 - C程序设计语言（包括课后答案等）
