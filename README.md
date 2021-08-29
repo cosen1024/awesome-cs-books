@@ -426,14 +426,15 @@
 
 ### Docker
 
-[百度云盘链接](https://pan.baidu.com/s/1YwdcgA1ZVUNhVLwe_y2APA) 密码：q3tt
+[百度云盘链接](https://pan.baidu.com/s/1H_0BOPk-Fc9ZggAaYJvQAg) 密码：6666
+
 
 * DOCKER技术入门与实战
 * Docker容器与容器云
 
 ### Kubernetes
 
-[百度云盘链接](https://pan.baidu.com/s/1Z4wJQ82PKsW7TfT2Mas5NA) 密码：rh9x
+[百度云盘链接](https://pan.baidu.com/s/1H_0BOPk-Fc9ZggAaYJvQAg) 密码：6666
 
 * Kubernetes权威指南：从Docker到Kubernetes实践全接触
 * 深入剖析Kubernetes
